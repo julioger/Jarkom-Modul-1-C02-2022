@@ -64,6 +64,10 @@ lalu ip.src == 192.168.100.108 dimana ipnya sesuai dengan ip address kita masing
 
 ![image](https://user-images.githubusercontent.com/100665785/191979556-51c568cd-c9be-4a67-a39c-e9e953a8571c.png)
 
+8. menggunakan follow tcp stream di wireshark di dapatkan percakapan sebagai berikut
 
+![gambar nomor 8](https://media.discordapp.net/attachments/221887784108032001/1023184353406238720/unknown.png)
 
+9&10. mendapatkan data berupa hex lalu diconvert menjadi .des3 dan menggunakan openssl menggunakan password yang ditemukan
 
+![gambar 9 10](https://media.discordapp.net/attachments/221887784108032001/1023185148738543758/unknown.png)
