@@ -4,10 +4,8 @@
 
 Soal
 
-
 ![image](https://user-images.githubusercontent.com/100665785/191977249-e17bb0cb-21f9-4a54-b4e8-0a3a24730051.png)
 ![image](https://user-images.githubusercontent.com/100665785/191977301-0444f67c-6591-42cf-86ea-b01558cf5815.png)
-
 
 1. http.host contains “monta.if.its.ac.id”, klik kanan lalu pilih follow tcp stream lalu lihat server yaitu nginx ver 1.10.3
 
